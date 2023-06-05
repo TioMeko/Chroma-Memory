@@ -31,7 +31,7 @@ $(".btn").click(function () {
 });
 
 function playSound(color) {
-  let audio = new Audio(`./sounds/${color}.mp3`);
+  let audio = new Audio(`assets/sounds/${color}.mp3`);
   audio.play();
 }
 
@@ -66,7 +66,7 @@ function checkAnswer(indexPressed) {
         } 
     }
   }else {
-    let audio = new Audio('./sounds/wrong.mp3')
+    let audio = new Audio('assets/sounds/wrong.mp3')
     audio.play();
 
     $("#level-title").text(`Game Over, Press Any Key to Restart`);
