@@ -1,1 +1,1 @@
-# simon-says
+# Basic Simon Says
