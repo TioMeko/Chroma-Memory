@@ -21,6 +21,6 @@ Chroma Memory is an entertaining and challenging activity that exercises the bra
 8. The game continues with increasingly longer and more complex color sequences, testing the players' memory and ability to recall the order accurately.
 
 ## <ins>Website Showcase</ins>
-### Click here to play: [Chroma Memory Master](https://tiomeko.github.io/simon-says/)
+### Click here to play: [Chroma Memory](https://tiomeko.github.io/Chroma-Memory/)
 
 ![CM Homepage](./assets/images/cmHomepage.JPG)
